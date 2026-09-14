@@ -94,7 +94,7 @@ Zomato-Data-Analysis/
 1. Clone this repository.
 
 ```bash
-git clone https://github.com/yourusername/zomato-data-analysis.git
+git clone https://github.com/shahanshah786/zomato-data-analysis.git
 ```
 
 2. Open the project folder.
